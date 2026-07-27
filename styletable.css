@@ -1,0 +1,40 @@
+table{
+border: 1px solid black;
+border-collapse: collapse;
+background-color: antiquewhite;
+
+}
+th{
+    text-align: center;
+    padding: 10px;
+    background-color: blanchedalmond;
+}
+td{
+    text-align: center;
+    font-style: italic;
+}
+
+.p1 {
+    background-color: red;
+    color: white;
+}
+.p2 {
+    background-color: blue;
+    color: white;
+}
+
+.p3 {
+    background-color: green;
+    color: white;
+}
+
+.p4 {
+    background-color: orange;
+    color: white;
+}
+
+.p5 {
+    background-color: purple;
+    color: white;
+}
+
