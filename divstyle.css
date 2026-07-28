@@ -1,0 +1,18 @@
+body{  background-image: url("photos/eyess.jpg");
+   
+  
+}
+.vegetable{
+
+
+   background-color: aqua;
+   display: inline;
+}
+.fruits{
+
+    background-color: aquamarine;
+    display:inline;
+}
+h2{
+    background-color: azure;
+}
